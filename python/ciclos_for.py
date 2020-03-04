@@ -15,4 +15,4 @@ if __name__ == "__main__":
     number = int(input('Escribe un número: '))
     imprime_nemeros(number)
 
-    #Se agrega un comentario para prueba
+    #Se agrega un comentario para prueba otra
